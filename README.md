@@ -1,2 +1,3 @@
 # test
-Getting used to github
+Practicing git flow
+
