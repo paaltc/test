@@ -1,0 +1,11 @@
+# Ignore all .log files
+*.log
+
+# Ignore the data/ folder and everything inside it
+data/
+
+# Ignore all .pyc files (Python cache files)
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
